@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Renan Costa! 👋
 
-Sou um jovem de 21 anos, apaixonado por tecnologia e em formação como Desenvolvedor Full Stack. Estudo Ciência da Computação na Universidade Veiga de Almeida e sou formado pela Digital House em Desenvolvimento Web Full Stack.
+Sou um jovem de 22 anos, apaixonado por tecnologia e em formação como Desenvolvedor Full Stack. Estudo Ciência da Computação na Universidade Veiga de Almeida e sou formado pela Digital House em Desenvolvimento Web Full Stack. Atualmente faço parte do Laboratório de Iniciação Científica da Universidade, chamado FuzzyLab.
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=renanppcosta&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats) -->
 
 <div align="center">
